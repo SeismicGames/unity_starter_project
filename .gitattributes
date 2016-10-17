@@ -11,6 +11,13 @@
 
 *.bat eol=crlf
 
+# Unity YAML merge
+
+*.unity merge=unityyamlmerge
+*.asset merge=unityyamlmerge
+*.prefab merge=unityyamlmerge
+*.mat merge=unityyamlmerge
+
 # Largefile extensions.
 # Combined Unreal and Unity as well as other common formats.
 
