@@ -17,6 +17,9 @@
 *.asset merge=unityyamlmerge
 *.prefab merge=unityyamlmerge
 *.mat merge=unityyamlmerge
+*.meta merge=unityyamlmerge
+*.anim merge=unityyamlmerge
+*.controller merge=unityyamlmerge
 
 # Largefile extensions.
 # Combined Unreal and Unity as well as other common formats.
