@@ -351,7 +351,10 @@ PlayerSettings:
   psp2UseDebugIl2cppLibs: 0
   psmSplashimage: {fileID: 0}
   spritePackerPolicy: 
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    1: DEVELOPER_TOOLS
+    4: DEVELOPER_TOOLS
+    7: DEVELOPER_TOOLS
   metroPackageName: unity_starter_project
   metroPackageVersion: 
   metroCertificatePath: 
@@ -421,11 +424,13 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   intPropertyNames:
   - Android::ScriptingBackend
+  - PS4::ScriptingBackend
   - Standalone::ScriptingBackend
   - WebPlayer::ScriptingBackend
   - iOS::Architecture
   - iOS::ScriptingBackend
   Android::ScriptingBackend: 0
+  PS4::ScriptingBackend: 0
   Standalone::ScriptingBackend: 0
   WebPlayer::ScriptingBackend: 0
   iOS::Architecture: 2
