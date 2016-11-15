@@ -41,3 +41,6 @@ ehthumbs.db
 
 # Custom user prefs
 /Assets/Prefs/User/
+
+# Python
+*.pyc
