@@ -75,3 +75,4 @@ AkSoundEngine filter=lfs diff=lfs merge=lfs -text
 *.akd filter=lfs diff=lfs merge=lfs -text
 *.bundle filter=lfs diff=lfs merge=lfs -text
 *.chm filter=lfs diff=lfs merge=lfs -text
+*.bytes filter=lfs diff=lfs merge=lfs -text
