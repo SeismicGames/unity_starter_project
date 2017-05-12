@@ -22,7 +22,7 @@ Empty project which should be forked to form new Unity projects. All of our raw 
 
 ### Install Unity
 
-1. Currently we're using 5.4.1p3
+1. Currently we're using 5.6.0f3
 2. Create an empty project on your machine (I recommend C:\Dev\Empty_Unity)
 3. Configure cache server (out of scope here)
 
